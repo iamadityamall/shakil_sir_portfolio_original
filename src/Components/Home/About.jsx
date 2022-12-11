@@ -1,10 +1,10 @@
 import React from "react";
 import aboutImage from "../../assests/images/male_model.jpeg";
-import { useSelector } from "react-redux";
+// import { useSelector } from "react-redux";
 //import { CV } from "../../assests/images";
 
 const About = () => {
-  const { isDarkmode } = useSelector((store) => store.navbar);
+  // const { isDarkmode } = useSelector((store) => store.navbar);
   return (
     <section
       id="about"
@@ -69,7 +69,7 @@ const About = () => {
             isDarkmode && "bg-white text-black"
           }`}
         >
-          <a href={CV} target="_blank" rel="noreferrer">
+          <a href="http://www.google.com" target="_blank" rel="noreferrer">
             Resume
           </a>
         </button> */}
