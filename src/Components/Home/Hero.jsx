@@ -1,6 +1,6 @@
 import React from "react";
 import { socialLinks } from "../../utils/data/SocialLinks";
-import heroImage from "../../assests/images/male_model.jpg";
+import heroImage from "../../assests/images/male_model.jpeg";
 import { useSelector } from "react-redux";
 import Link from "react-scroll/modules/components/Link";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImage from "../../assests/images/male_model.jpg";
+import aboutImage from "../../assests/images/male_model.jpeg";
 import { useSelector } from "react-redux";
 import { CV } from "../../assests/images";
 
