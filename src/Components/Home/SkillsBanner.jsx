@@ -1,14 +1,12 @@
 import React from "react";
 import "../../index.css";
 import {
-  FaHtml5,
-  FaReact,
   FaRupeeSign,
   FaBusinessTime,
   FaBook,
   FaLaptopCode,
 } from "react-icons/fa";
-import { SiCsswizardry, SiTailwindcss, SiJavascript } from "react-icons/si";
+// import { SiCsswizardry, SiTailwindcss, SiJavascript } from "react-icons/si";
 import { AiFillBank } from "react-icons/ai";
 
 const ClientLogo = () => {
