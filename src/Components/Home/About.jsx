@@ -1,7 +1,7 @@
 import React from "react";
 import aboutImage from "../../assests/images/male_model.jpeg";
 import { useSelector } from "react-redux";
-import { CV } from "../../assests/images";
+//import { CV } from "../../assests/images";
 
 const About = () => {
   const { isDarkmode } = useSelector((store) => store.navbar);
@@ -64,7 +64,7 @@ const About = () => {
             <span className="text-gray-800 font-semibold">contact me</span>.
           </p> */}
         </div>
-        <button
+        {/* <button
           className={`transition-all duration-500 ease-in-out p-4 bg-black text-white font-poppins rounded-lg w-full md:w-auto ${
             isDarkmode && "bg-white text-black"
           }`}
@@ -72,7 +72,7 @@ const About = () => {
           <a href={CV} target="_blank" rel="noreferrer">
             Resume
           </a>
-        </button>
+        </button> */}
       </div>
     </section>
   );
