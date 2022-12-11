@@ -14,8 +14,8 @@ const Contact = () => {
           Contacts
         </h1>
         <p className="font-poppins text-sm px-2 text-justify pt-4 lg:text-lg lg:w-[50vw] lg:text-center">
-          At present, I am looking for full-time, part-time, internships
-          opportunities in the web technologies as a frontend developer
+          If you want to grow your business, require software and IT solutions
+          or need any assistances in the BFSI sector, we can meet over coffee.
         </p>
       </div>
       <div className="flex flex-col space-y-10 md:grid md:grid-cols-2 md:items-center md:space-y-0">
@@ -29,7 +29,7 @@ const Contact = () => {
             </div>
             <div className="flex flex-col space-y-2 pl-14 text-sm">
               <p>I am here to help</p>
-              <p>Email me at contact.adityamall@gmail.com</p>
+              <p>Email me at shakildongarkar@gmail.com</p>
             </div>
           </aside>
           <aside className="flex flex-col space-y-2">
@@ -41,7 +41,7 @@ const Contact = () => {
             </div>
             <div className="flex flex-col space-y-2 pl-14 text-sm">
               <p>Mumbai, India</p>
-              <p>Open to relocate</p>
+              <p>+91 9833841892</p>
             </div>
           </aside>
         </div>
